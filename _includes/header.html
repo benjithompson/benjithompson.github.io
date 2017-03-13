@@ -14,11 +14,16 @@
       </span>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+        <!--This is programmatically generating the site menu which is alphabetical-->
+        <!--{% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %}-->
+          <a class="page-link" href={{site.url}}>Home</a>
+          <a class="page-link" href="/projects/">Projects</a>
+          <a class="page-link" href="/photos/">Photos</a>
+          <a class="page-link" href="/about/">About</a>
       </div>
     </nav>
 
