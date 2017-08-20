@@ -2,11 +2,11 @@
 
 This is my personal site using Jekyll, designed to be hosted on Github Pages.
 
-##Setup
+## Setup
 
 Initial developement was started on Windows. This required some attention as Jekyll is not natively supported on non unix terminals. 
 
-###Installation
+### Installation
 
 1. Install [Chocolatey](https://chocolatey.org/install). 
    Open PS as Admin and run `iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex`
