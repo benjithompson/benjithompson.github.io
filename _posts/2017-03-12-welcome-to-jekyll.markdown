@@ -9,7 +9,7 @@ categories: random
 
 <img class="img-left" src="https://github.com/benjithompson/benjithompson.github.io/blob/master/assets/imgs/murphy.jpg?raw=true" alt="murph">
 
-<div class=inqC2CImgContainer_Fixed1>
+<div class=inqC2CImgContainer_Fixed1>THING
 </div>
 
 
