@@ -9,6 +9,10 @@ categories: random
 
 <img class="img-left" src="https://github.com/benjithompson/benjithompson.github.io/blob/master/assets/imgs/murphy.jpg?raw=true" alt="murph">
 
+<div class=inqC2CImgContainer_Fixed1>
+</div>
+
+
 First commit of my personal site using Github Pages and Jekyll. Not much else to talk about now, but in the near future I plan on using this site as a project diary and for personal drama. Keep it secret...
 
 [jekyll-docs](https://jekyllrb.com/docs/home) \\
